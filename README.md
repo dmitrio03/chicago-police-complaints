@@ -9,7 +9,7 @@ The Citizens Police Data Project has collected more than 56,000 allegations of p
 
 The data, covering 2002-2008 and 2011-2015, includes demographic information about the complainant and the officer, as well as the type and location of the incident.
 
-[![Open in Colab](https://drive.google.com/file/d/17x94gvbIL6oyJDeYV49Q_678nRrCdPH7/view?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/17x94gvbIL6oyJDeYV49Q_678nRrCdPH7/view?usp=sharing)
 
 ## Overview
 
