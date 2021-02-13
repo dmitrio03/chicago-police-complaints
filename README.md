@@ -40,6 +40,7 @@ Most of the features are converted with PCA for confidentiality. The exceptions 
 	* The total rate for sustaining an allegation is 8%. This means that 92% of allegations are unsustained and do not result in discipline.
 	* Men in the CPD have a 5.9% mean of sustaining an allegation.
 	* Women in the CPD have a 7.9% mean of sustaining an allegation.
+	* The tables represent sustained vs unsustained complaints. Searching without a warrant is often not sustained, even though it is the top complaint.
 	* Black members of the police have a 10.3% chance of an allegation being sustained.
 	* White members of the police have a 4.8% chance of an allegation being sustained.
 	* Hispanic members of the police have a 5.3% chance of an allegation being sustained.
