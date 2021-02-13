@@ -1,5 +1,3 @@
-# chicago-police-complaints
-
 
 # Complaints Against the Chicago Police Department
 
