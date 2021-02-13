@@ -72,7 +72,7 @@ We see what null hypothesis can be rejected using a significance level of 0.05.
 
 The t-test shows that the biggest difference is between white and black police members, with a p-value well under 0.05. The p-value is the probability that, given that the null hypothesis  𝐻0  is true, we could have ended up with a statistic at least as extreme as the one we got.
 
-$$t = \frac{\bar{x}_E - \bar{x}_C}{\sqrt {s^2 \Big(\frac{1}{n_E} + \frac{1}{n_C}\Big)}}$$
+$t = \frac{\bar{x}_E - \bar{x}_C}{\sqrt {s^2 \Big(\frac{1}{n_E} + \frac{1}{n_C}\Big)}}$
 
 
 ----
