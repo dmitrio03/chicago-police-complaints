@@ -72,7 +72,7 @@ We see what null hypothesis can be rejected using a significance level of 0.05.
 
 The t-test shows that the biggest difference is between white and black police members, with a p-value well under 0.05. The p-value is the probability that, given that the null hypothesis  𝐻0  is true, we could have ended up with a statistic at least as extreme as the one we got.
 
-![img](http://www.sciweavers.org/tex2img.php?eq=%24%24t%20%3D%20%5Cfrac%7B%5Cbar%7Bx%7D_E%20-%20%5Cbar%7Bx%7D_C%7D%7B%5Csqrt%20%7Bs%5E2%20%5CBig%28%5Cfrac%7B1%7D%7Bn_E%7D%20%2B%20%5Cfrac%7B1%7D%7Bn_C%7D%5CBig%29%7D%7D%24%24%0A&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0[/img])
+![img](https://storage.googleapis.com/earth_data_247/t-test.jpg)
 
 ----
 
