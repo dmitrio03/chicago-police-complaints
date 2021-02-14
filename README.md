@@ -33,7 +33,7 @@ Most of the features are converted with PCA for confidentiality. The exceptions 
 ![image](https://storage.googleapis.com/earth_data_247/age-unsustained.png)
 ### Sustained Allegations:
 
-|allegation_name|	category|	count|
+|allegation name|	category|	count|
 |---------------|---------------|------------|
 |Neglect Of Duty	|Operation/Personnel Violations|	361|
 |Miscellaneous	|Operation/Personnel Violations	|216|
@@ -43,7 +43,7 @@ Most of the features are converted with PCA for confidentiality. The exceptions 
 
 ### Unsustained Allegations:
 
-|allegation_name|	category|	count|
+|allegation name|	category|	count|
 |---------------|---------------|------------|
 |Inadequate / Failure To Provide Service	|Operation/Personnel Violations|	3647|
 |Search Of Premise Without Warrant	|First Amendment and Illegal Arrest|	2888|
