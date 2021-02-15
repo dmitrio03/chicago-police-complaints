@@ -83,7 +83,7 @@ Most of the features are converted with PCA for confidentiality. The exceptions 
 
 
 
-# Two-group test
+### Two-group test
 
 We see what null hypothesis can be rejected using a significance level of 0.05.
 
